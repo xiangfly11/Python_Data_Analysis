@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4484a47-5c24-44c3-9237-c85c611bd462" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W6VWAJF7Gvu8NU13GOI2CfMi0J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DataAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EnglishTeacherAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DataAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4484a47-5c24-44c3-9237-c85c611bd462" name="Default Changelist" comment="" />
+      <created>1578470060574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578470060574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2246" y="242" key="#Inspections" timestamp="1578470801939">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2246" y="242" key="#Inspections/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578470801939" />
+    <state width="1899" height="418" key="GridCell.Tab.0.bottom" timestamp="1578477180609">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180609" />
+    <state width="1899" height="418" key="GridCell.Tab.0.center" timestamp="1578477180608">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180608" />
+    <state width="1899" height="418" key="GridCell.Tab.0.left" timestamp="1578477180607">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180607" />
+    <state width="1899" height="418" key="GridCell.Tab.0.right" timestamp="1578477180609">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180609" />
+    <state width="1899" height="418" key="GridCell.Tab.1.bottom" timestamp="1578477180546">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180546" />
+    <state width="1899" height="418" key="GridCell.Tab.1.center" timestamp="1578477180546">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180546" />
+    <state width="1899" height="418" key="GridCell.Tab.1.left" timestamp="1578477180545">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180545" />
+    <state width="1899" height="418" key="GridCell.Tab.1.right" timestamp="1578477180546">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="418" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578477180546" />
+    <state x="2155" y="215" key="SettingsEditor" timestamp="1578471408655">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2155" y="215" key="SettingsEditor/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578471408655" />
+    <state x="2325" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1578475159274">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2325" y="399" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1578475159274" />
+  </component>
+</project>
